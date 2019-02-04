@@ -4,6 +4,7 @@ public class TeamBeardsAndKim extends Team {
 
 	public TeamBeardsAndKim(String name) {
 		super(name);
+		createTeamMembers();
 	}
 
 	@Override
