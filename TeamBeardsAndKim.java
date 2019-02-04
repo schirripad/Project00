@@ -10,6 +10,7 @@ public class TeamBeardsAndKim extends Team {
 	public void createTeamMembers() {
 		members.add(new SchirripaMember());
 		members.add(new HutchinsonMember());
+		members.add(new MillerMember());
 	}
 
 }
